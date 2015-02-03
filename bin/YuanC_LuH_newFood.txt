@@ -1,0 +1,38 @@
+303,"Veggie Flatizza",Flatizza,410.6,4.95
+101,"Black Forest Ham",Sandwiches,290.0,4.95
+110,"Subway Club",Sandwiches,310.6,3.95
+107,"Roast Beef",Sandwiches,320.1,5.95
+200,"Bacon Egg & Cheese",Breakfast,410.0,2.95
+201,"Black Forest Ham Egg & Cheese",Breakfast,390.0,2.95
+114,"Turkey Breast & Black Forest Ham",Sandwiches,280.7,3.95
+400,"Apple Slices",Sides,120.6,"Crunch Pak",2.95
+506,"Powerade",Drinks,0.0,"Coca Cola",500,2.25
+402,"Cookies",Sides,310.6,"Nabisco",2.95
+504,"Fuze Fresh Brewed Iced Tea",Drinks,110.6,"Subway",500,1.95
+301,"Pepperoni Flatizza",Flatizza,500.0,5.95
+115,"Veggie Delite",Sandwiches,230.2,3.95
+202,"Egg & Cheese",Breakfast,360.0,2.95
+503,"Minute Maid Orange Juice",Drinks,110.6,"Coca Cola",450,1.95
+111,"Sweet Onion Chicken Teriyaki",Sandwiches,370.3,4.95
+105,"Meatball Marinara",Sandwiches,480.1,5.95
+507,"Vitaminwater zero",Drinks,0.0,"Coca Cola",500,1.95
+501,"Coke",Drinks,210.6,"Coca Cola",500,1.95
+112,"Tuna",Sandwiches,480.0,4.95
+113,"Turkey Breast",Sandwiches,280.2,5.95
+300,"Cheese Flatizza",Flatizza,390.0,4.95
+401,"Chips",Sides,324.6,"Lay's",2.95
+203,"Steak Egg White & Cheese",Breakfast,430.0,3.95
+100,"Big Hot Pastrami Melt",Sandwiches,580.0,5.95
+106,"Oven Roasted Chicken",Sandwiches,320.7,4.95
+502,"Bottled Water",Drinks,0.0,"Dasanl",400,1.15
+302,"Spicy Italian Flatizza",Flatizza,490.0,4.95
+505,"Coffee",Drinks,210.0,"Subway",250,1.95
+104,"Italian B.M.T.",Sandwiches,410.0,4.95
+109,"Steak & Cheese",Sandwiches,380.0,5.95
+108,"Spicy Italian",Sandwiches,480.1,5.95
+500,"Milk",Drinks,170.0,"Shamrock Farms",236,1.95
+102,"Chicken & Bacon Ranch Melt",Sandwiches,570.2,5.95
+103,"Cold Cut Combo",Sandwiches,360,4.95
+403,"Pretzel",Sides,302.6,"Nabisco",3.95
+404,"Snack Cakes",Sides,302.6,"Lay's",4.95
+405,"Sweet Cakes",Sides,402.6,"Lay's",4.95
